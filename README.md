@@ -1,4 +1,6 @@
-# Kutex - key mutex
+# Kutex [![GoDoc](https://godoc.org/github.com/4vn/kutex?status.svg)](https://godoc.org/github.com/4vn/kutex)
+
+Kutex = key + mutex
 
 ### Import
 
@@ -15,3 +17,7 @@ ku.Lock(userId)
 // Do something
 ku.Unlock(userId)
 ```
+
+### License
+
+MIT
